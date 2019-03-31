@@ -1,0 +1,15 @@
+After 1 steps, the subject has the following location:
+(x,y) = (4.49472, -42.7644)
+ or
+(m,a) = (43, -84)
+Average outward distance per step = 43
+After 1 steps, the subject has the following location:
+(x,y) = (-35.3533, -42.1324)
+ or
+(m,a) = (55, -130)
+Average outward distance per step = 55
+After 2 steps, the subject has the following location:
+(x,y) = (-32.6462, -58.8953)
+ or
+(m,a) = (67.3382, -119)
+Average outward distance per step = 33.6691
